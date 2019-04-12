@@ -32,15 +32,15 @@
 - python
   
   
--web
+- web
   
-  -HTML5
+  - HTML5
   
-  -javascript
+  - javascript
   
-  -css
+  - css
   
-  -react
+  - react
   
   
   
