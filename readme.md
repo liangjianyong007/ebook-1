@@ -25,6 +25,16 @@
   22. [How to Think Like a Computer Scientist--Learinig with Python](https://github.com/onestraw/ebook/blob/master/01_programming/How%20to%20Think%20Like%20a%20Computer%20Scientist--Learinig%20with%20Python.pdf)
   31. [ANSI Common Lisp（中文版）](https://github.com/onestraw/ebook/blob/master/01_programming/ANSI%20Common%20Lisp%20%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91%E7%89%88.pdf)
   32. [高级Bash脚本编程指南](https://github.com/onestraw/ebook/blob/master/01_programming/%E9%AB%98%E7%BA%A7Bash%E8%84%9A%E6%9C%AC%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
+  
+  - java
+  
+  
+  - python
+  
+  
+  -前端
+  
+  
 - 调试
   50. [Debug.Hacks 深入调试的技术和工具](https://github.com/onestraw/ebook/blob/master/01_programming/Debug.Hacks%20%E6%B7%B1%E5%85%A5%E8%B0%83%E8%AF%95%E7%9A%84%E6%8A%80%E6%9C%AF%E5%92%8C%E5%B7%A5%E5%85%B7.pdf)
   51. [程序员的自我修养—链接、装载与库](https://github.com/onestraw/ebook/blob/master/01_programming/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB%E2%80%94%E9%93%BE%E6%8E%A5%E3%80%81%E8%A3%85%E8%BD%BD%E4%B8%8E%E5%BA%93.pdf)
@@ -66,25 +76,32 @@
 4. [黑客与画家](https://github.com/onestraw/ebook/blob/master/09_other/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6.pdf)
 5. [浪潮之巅](https://github.com/onestraw/ebook/blob/master/09_other/%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85.pdf)
 6. [数学之美](https://github.com/onestraw/ebook/blob/master/09_other/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
-7. [代码之美](https://github.com/onestraw/ebook/blob/master/09_other/%E4%BB%A3%E7%A0%81%E4%B9%8B%E7%BE%8EBeautiful%20Code.pdf)
-8. [高效程序员的45个习惯](https://github.com/onestraw/ebook/blob/master/09_other/%E9%AB%98%E6%95%88%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8445%E4%B8%AA%E4%B9%A0%E6%83%AF.pdf)
-9. [从零到一]
 
-###链接
+
+###编程规范
 
 1. [Google编程风格指南](https://github.com/zh-google-styleguide/zh-google-styleguide)
 2. [Google style guide](http://code.google.com/p/google-styleguide/)
+3. [代码之美](https://github.com/onestraw/ebook/blob/master/09_other/%E4%BB%A3%E7%A0%81%E4%B9%8B%E7%BE%8EBeautiful%20Code.pdf)
+4. [高效程序员的45个习惯](https://github.com/onestraw/ebook/blob/master/09_other/%E9%AB%98%E6%95%88%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8445%E4%B8%AA%E4%B9%A0%E6%83%AF.pdf)
 
-###java
+
+  
+   
 
 
 ###架构设计
 
 
+
+
 ###分布式
 
 
+
+
 ###运维管理
+
 
 
 
