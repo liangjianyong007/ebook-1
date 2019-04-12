@@ -74,3 +74,31 @@
 
 1. [Google编程风格指南](https://github.com/zh-google-styleguide/zh-google-styleguide)
 2. [Google style guide](http://code.google.com/p/google-styleguide/)
+
+###java
+
+
+###架构设计
+
+
+###分布式
+
+
+###运维管理
+
+
+
+###管理
+
+
+
+###金融相关
+
+
+
+
+
+
+
+
+
